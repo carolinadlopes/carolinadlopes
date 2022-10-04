@@ -1,5 +1,6 @@
 ### Oiii eu sou a Carolina Duarte 👋
 
+</br>
 
 - 🔭 Estou trabalhando com html e css;
 - 🌱 Atualmente estou aprendendo html, css e javascript;
