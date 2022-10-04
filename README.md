@@ -1,5 +1,5 @@
-<h1> Oiii eu sou a Carolina Duarte 👋 
-align="center" </h1>
+### Oiii eu sou a Carolina Duarte 👋
+
 
 - 🔭 Estou trabalhando com html e css;
 - 🌱 Atualmente estou aprendendo html, css e javascript;
