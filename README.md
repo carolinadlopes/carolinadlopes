@@ -4,8 +4,7 @@
 
 - 🔭 Estou trabalhando com html e css;
 - 🌱 Atualmente estou aprendendo html, css e javascript;
-- 😄 Pronomes: ela/dela;
-- ⚡ Fun fact: sou formada em enfermagem e tenho pós graduação em cirurgia robótica;
+- 😄 Fun fact: sou gamer, enfermeira e tenho pós graduação em cirurgia robótica;
 
 <div align="center">
   <div style="display: inline_block"><br>
