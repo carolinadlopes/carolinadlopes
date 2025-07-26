@@ -3,7 +3,7 @@
 </br>
 
 - 🔭 Estou trabalhando com html e css;
-- 🌱 Atualmente estou aprendendo html, css e javascript;
+- 🌱 Atualmente estou aprendendo html, css, python e javascript;
 - 😄 Fun fact: sou gamer, enfermeira e tenho pós graduação em cirurgia robótica;
 
 <div align="center">
