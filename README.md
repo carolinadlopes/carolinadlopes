@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/carolinadlopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <div align="center">
-  <img src="https://raw.githubusercontent.com/carolinadlopes/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/carolinadlopes/carolinadlopes/output/snake.svg" alt="Snake animation" />
  </div>
  
  
